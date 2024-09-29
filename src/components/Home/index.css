@@ -27,7 +27,7 @@
 .clothesImage {
   width: 40%;
 }
-.homeBgContainer{
+.homeBgContainer {
   display: flex;
   justify-content: space-between;
 }
