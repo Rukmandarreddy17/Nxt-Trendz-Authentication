@@ -1,0 +1,51 @@
+/* Write your CSS code here */
+.websiteLoginImg {
+  width: 50%;
+}
+.fromContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 40px;
+  width: 40%;
+  background-color: white;
+  box-shadow: 2px 4px 6px rgba(0, 0, 0, 0.2);
+}
+.nxtTrendzLogo {
+  width: 60%;
+  margin-left: 20%;
+}
+.inputElement {
+  width: 80%;
+  background-color: #d7dfe9;
+  padding: 15px;
+  outline: none;
+  border: none;
+  margin-bottom: 10px;
+}
+.labelElement {
+  color: black;
+  font-size: 15px;
+  font-family: 'Roboto';
+}
+.loginButton {
+  width: 85%;
+  background-color: #0b69ff;
+  border-style: none;
+  padding: 10px;
+  color: white;
+  border-radius: 15px;
+  margin-top: 20px;
+}
+.bgContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.c1 {
+  display: flex;
+  justify-content: space-between;
+}
+.errormsg {
+  color: red;
+}
